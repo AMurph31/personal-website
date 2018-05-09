@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<head>
+  <title>Alex Murphy</title>
+  <style>
+    body {
+      text-align: center;
+      background: url("https://unsplash.com/photos/vg1AuNXzICY");
+      background-size: cover;
+      background-position: center;
+      color: white;
+      font-family: dosis;
+    }
+    p {
+      font-size: 22px;
+    }
+  </style>
+</head>
+
+<body>
+  <img src="/assets/anna.png">
+  <p>I'm Alex, a web-developer in Philadelphia</p>
+</body>
